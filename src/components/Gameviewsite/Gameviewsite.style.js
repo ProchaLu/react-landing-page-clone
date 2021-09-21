@@ -93,10 +93,6 @@ export const gameviewPictures = css`
 export const gameviewUl = css`
   padding-left: 0px;
   list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-bottom: 16px;
 
   img {
     width: 110px;
@@ -105,4 +101,11 @@ export const gameviewUl = css`
     overflow: hidden;
     margin: 10px 10px;
   }
+`;
+
+export const gameviewLi = css`
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 16px;
 `;

@@ -15,6 +15,7 @@ import {
   gameButtonWhite,
   gameContainer,
   gameviewContent,
+  gameviewLi,
   gameviewPictures,
   gameviewUl,
   gameviewWrapper,
@@ -38,7 +39,7 @@ const GameviewSite = () => {
           </div>
           <div css={gameviewPictures}>
             <ul css={gameviewUl}>
-              <li>
+              <li css={gameviewLi}>
                 <img src={game1} alt="game 1" />
                 <img src={game2} alt="game 2" />
                 <img src={game3} alt="game 3" />
@@ -47,6 +48,7 @@ const GameviewSite = () => {
                 <img src={game6} alt="game 6" />
                 <img src={game7} alt="game 7" />
                 <img src={game8} alt="game 8" />
+
                 <img src={game9} alt="game 9" />
                 <img src={game10} alt="game 10" />
               </li>
