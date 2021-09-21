@@ -1,3 +1,7 @@
+# this is a clone from a landing page
+
+## there is NO responsive design, please use width between 992px and 1199px or the site is not the same as the original page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

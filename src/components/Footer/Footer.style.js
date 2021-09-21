@@ -86,7 +86,7 @@ export const footerMidRow = css`
   text-align: center;
   color: white;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
 `;
 
 export const footerDownContent = css`

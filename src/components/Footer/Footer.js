@@ -22,7 +22,7 @@ const Footer = () => {
           <div css={footerRow}>
             <img src={logoWhite} alt="logo white" />
             <span>
-              Email us:{' '}
+              Email us:
               <a href="mailto:support@brightful.me">support@brightful.me</a>
             </span>
           </div>
@@ -90,6 +90,9 @@ const Footer = () => {
       </div>
       <div css={footerMidContent}>
         <div css={footerMidRow}>
+          <div css={footerRow}>
+            <div css={footerNavItems} />
+          </div>
           <div css={footerRow}>
             <div css={footerNavItems}>
               <h5>POPULAR GAMES</h5>
