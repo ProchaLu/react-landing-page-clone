@@ -1,4 +1,5 @@
 /** @jsxImportSource @emotion/react */
+import Footer from './components/Footer/Footer';
 import GameviewSite from './components/Gameviewsite/GameviewSite';
 import Header from './components/Header/Header';
 import Hero from './components/Hero/Hero';
@@ -19,6 +20,7 @@ function App() {
       <PlayArea />
       <HowItWorks />
       <PremiumArea />
+      <Footer />
     </div>
   );
 }

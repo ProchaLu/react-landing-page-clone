@@ -7,6 +7,7 @@ const PremiumArea = () => {
     <div css={premiumWrapper}>
       <div css={premiumContent}>
         <h3>Try Brightful Premium 100% free for 14 days</h3>
+        <button>try Brightful</button>
       </div>
     </div>
   );

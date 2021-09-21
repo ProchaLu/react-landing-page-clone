@@ -72,6 +72,10 @@ export const singleSteps = css`
     font-weight: 300;
     line-height: 1.5;
   }
+  &:last-child {
+    border-bottom: 0px;
+    padding-bottom: 0px;
+  }
 `;
 
 export const singleStepsContent = css`
@@ -90,8 +94,5 @@ export const singleStepsContent = css`
     color: #212529;
     opacity: 0.1;
     font-weight: 700;
-  }
-
-  &:last-child {
   }
 `;

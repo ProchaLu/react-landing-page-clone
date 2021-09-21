@@ -11,6 +11,7 @@ export const navWrapper = css`
   background-color: white;
   top: 0;
   width: 100%;
+  z-index: 1;
 `;
 
 export const imageHeader = css`
