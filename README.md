@@ -1,6 +1,8 @@
-# this is a clone from a landing page
+# this is a clone from a landing page (https://www.brightful.me/play/)
 
-## there is NO responsive design, please use width between 992px and 1199px or the site is not the same as the original page
+## there is NO responsive design, please use width between 992px and 1199px or the page is not the same as the original page!
+
+### the font of the original page is GILFOY, it is not free so I used ROBOTO.
 
 # Getting Started with Create React App
 
